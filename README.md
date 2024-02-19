@@ -1,4 +1,4 @@
-# desktop-map-of-alerts-in-Ukraine
+# Desktop-map-of-alerts-in-Ukraine
 A physical desktop map of Ukraine with military alerts, based on ESP12F
 ![Frontview](https://github.com/9000misha/desktop-map-of-alerts-in-Ukraine/assets/10295942/130fdb6f-347b-4d11-877c-b9e667a3e97d)
 
